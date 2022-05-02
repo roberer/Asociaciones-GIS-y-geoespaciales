@@ -4,6 +4,30 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 ¡Tú también puedes participar!
 
+* ### <a rel="noreferrer noopener" href="https://www.ogc.org/" target="_blank">Open Geospatial Consortium (OGC)</a>
+
+Consorcio internacional de empresas,    agencias gubernamentales, asociaciones y fundaciones dedicada principalmente a la creación de <strong>estándares</strong> geoespaciales
+
+
+* ### <a rel="noreferrer noopener" href="https://www.osgeo.org/" target="_blank">Open Source Geospatial Foundation (OSGeo)</a>
+
+Fundación que se dedica a promover el uso de geotecnología de <strong>código abierto</strong>.
+
+
+* ### <a rel="noreferrer noopener" href="https://qgis.org/es/site/forusers/usergroups.html" target="_blank">Grupos de usuarios QGIS</a>
+
+El proyecto <strong>QGIS</strong> (apoyado por OSGeo) cuenta con <strong>comunidades </strong>y asociaciones en varios países del mundo que contribuyen a su desarrollo.
+
+* ### <a rel="noreferrer noopener" href="https://www.geodevelopers.org/" target="_blank">GeoDevelopers</a>
+
+Comunidad de <strong>geoprogramadores </strong>orientada a la divulgación y la colaboración en aplicaciones geotecnológicas
+
+* ### <a href="http://geoinquietos.org/" target="_blank" rel="noreferrer noopener">Geoinquietos</a>
+
+
+
+
+
 <table><tbody>
   
   <tr><td><a rel="noreferrer noopener" href="https://www.ogc.org/" target="_blank">Open Geospatial Consortium (OGC)</a></td><td>Consorcio internacional de empresas,    agencias gubernamentales, asociaciones y fundaciones dedicada principalmente a la creación de <strong>estándares</strong> geoespaciales.</td></tr>
