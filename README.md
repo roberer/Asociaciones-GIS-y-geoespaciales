@@ -40,6 +40,10 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 > <a rel="noreferrer noopener" href="https://wiki.openstreetmap.org/wiki/ES:Proyectos_de_mapeo" target="_blank">Iniciativas</a> de cartografía humanitaria a través de OpenStreetMap
 
+#### <a rel="noreferrer noopener" href="https://www.openplanetary.org/" target="_blank">OpenPlanetary</a>
+
+> Organización sin ánimo de lucro que promueve el debate y el desarrollo de datos y herramientas para la investigación espacial
+
 #### <a rel="noreferrer noopener" href="https://telegram.me/qgis_es" target="_blank">Canal de QGIS</a>
 #### <a rel="noreferrer noopener" href="https://telegram.me/rspatial_es" target="_blank">Canal de R Spatial</a>
 #### <a rel="noreferrer noopener" href="https://t.me/gvsiges" target="_blank">Canal de gvSIG</a>
