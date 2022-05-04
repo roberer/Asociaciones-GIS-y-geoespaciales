@@ -1,4 +1,4 @@
-# Asociaciones GIS y geoespaciales 🤝🗺️
+# Asociaciones GIS y geoespaciales 🤝🌐
 
 Por Rober J
 
