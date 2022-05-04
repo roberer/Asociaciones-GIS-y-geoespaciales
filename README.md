@@ -15,12 +15,12 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 #### <a rel="noreferrer noopener" href="https://www.osgeo.org/" target="_blank">Open Source Geospatial Foundation (OSGeo)</a>
 
-> Fundación que se dedica a promover el uso de geotecnología de <strong>código abierto</strong>.
+> Fundación que se dedica a promover el uso de geotecnología de <strong>código abierto</strong>
 
 
 #### <a rel="noreferrer noopener" href="https://qgis.org/es/site/forusers/usergroups.html" target="_blank">Grupos de usuarios QGIS</a>
 
-> El proyecto <strong>QGIS</strong> (apoyado por OSGeo) cuenta con <strong>comunidades </strong>y asociaciones en varios países del mundo que contribuyen a su desarrollo.
+> El proyecto <strong>QGIS</strong> (apoyado por OSGeo) cuenta con <strong>comunidades </strong>y asociaciones en varios países del mundo que contribuyen a su desarrollo
 
 #### <a rel="noreferrer noopener" href="https://www.geodevelopers.org/" target="_blank">GeoDevelopers</a>
 
@@ -32,15 +32,15 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 #### <a rel="noreferrer noopener" href="https://www.geovoluntarios.org/" target="_blank">GeoVoluntarios</a> <br> <a rel="noreferrer noopener" href="https://www.giscorps.org/" target="_blank">GISCorps</a>
 
-> Asociaciones de usuarios GIS sin ánimo de lucro para dar apoyo a situaciones de <strong>emergencia</strong>.
+> Asociaciones de usuarios GIS sin ánimo de lucro para dar apoyo a situaciones de <strong>emergencia</strong>
 
 #### <a rel="noreferrer noopener" href="https://gis.stackexchange.com/" target="_blank">GIS Stack Exchange</a>
 
-> Foro de preguntas y respuestas de la red Stack Exchange dedicado a cuestiones relacionadas con las tecnologías de la información geográfica.
+> Foro de preguntas y respuestas de la red Stack Exchange dedicado a cuestiones relacionadas con las tecnologías de la información geográfica
 
 #### <a rel="noreferrer noopener" href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>
 
-> Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede aportar.
+> Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede aportar
 
 #### <a rel="noreferrer noopener" href="https://www.missingmaps.org/es/" target="_blank">Missingmaps</a> <br> <a rel="noreferrer noopener" href="https://tasks.hotosm.org/" target="_blank">Humanitarian OpenStreetMap</a>
 
