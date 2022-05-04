@@ -4,9 +4,7 @@ Por Rober J
 
 [![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/@roberer_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/roberer_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
 
-Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Información Geográfica
-
-¡Tú también puedes participar!
+Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Información Geográfica donde cualquiera puede participar:
 
 #### <a rel="noreferrer noopener" href="https://www.ogc.org/" target="_blank">Open Geospatial Consortium (OGC)</a>
 
