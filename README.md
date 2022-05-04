@@ -52,7 +52,7 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 #### <a rel="noreferrer noopener" href="https://telegram.me/qgis_es" target="_blank">Canal de QGIS</a> <br>  <a rel="noreferrer noopener" href="https://telegram.me/rspatial_es" target="_blank">Canal de R Spatial</a> <br> <a rel="noreferrer noopener" href="https://t.me/gvsiges" target="_blank">Canal de gvSIG</a> <br> <a rel="noreferrer noopener" href="https://t.me/osgeoes" target="_blank">Canal de OSGeo</a> <br> <a rel="noreferrer noopener" href="https://t.me/detrasdelmapa" target="_blank">Canal 'Detrás del mapa'</a>
 
-> Grupos de usuarios de distintas tecnologías geoespaciales en <strong>Telegram  </strong>
+> Grupos de usuarios hispanohablantes de distintas tecnologías geoespaciales en <strong>Telegram</strong>
   
  
   
