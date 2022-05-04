@@ -34,6 +34,10 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 > Asociaciones de usuarios GIS sin ánimo de lucro para dar apoyo a situaciones de <strong>emergencia</strong>.
 
+#### <a rel="noreferrer noopener" href="https://gis.stackexchange.com/" target="_blank">GIS Stack Exchange</a>
+
+> Foro de preguntas y respuestas de la red Stack Exchange dedicado a cuestiones relacionadas con las tecnologías de la información geográfica.
+
 #### <a rel="noreferrer noopener" href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>
 
 > Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede aportar.
