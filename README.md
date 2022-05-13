@@ -20,6 +20,10 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 > El proyecto <strong>QGIS</strong> (apoyado por OSGeo) cuenta con <strong>comunidades </strong>y asociaciones en varios países del mundo que contribuyen a su desarrollo
 
+#### <a rel="noreferrer noopener" href="http://www.gvsig.com/es" target="_blank">Asociación gvSIG</a>
+
+> Asociación para el fomento de las tecnologías de la información geográfica ligadas al proyecto gvSIG 
+
 #### <a rel="noreferrer noopener" href="https://www.geodevelopers.org/" target="_blank">GeoDevelopers</a>
 
 > Comunidad de <strong>geoprogramadores </strong>orientada a la divulgación y la colaboración en aplicaciones geotecnológicas
@@ -38,7 +42,11 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 #### <a rel="noreferrer noopener" href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>
 
-> Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede aportar
+> Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede convertirse en cartógrafo
+
+#### <a rel="noreferrer noopener" href="https://www.giswater.org/comunidad/" target="_blank">GISWATER</a>
+
+> Comunidad de usuarios para el desarrollo de herramientas geoespaciales libres relacionadas con la gestión hídrica
 
 #### <a rel="noreferrer noopener" href="https://www.missingmaps.org/es/" target="_blank">Missingmaps</a> <br> <a rel="noreferrer noopener" href="https://tasks.hotosm.org/" target="_blank">Humanitarian OpenStreetMap</a>
 
