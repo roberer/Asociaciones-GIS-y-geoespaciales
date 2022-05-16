@@ -40,7 +40,7 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 > Foro de preguntas y respuestas de la red Stack Exchange dedicado a cuestiones relacionadas con las tecnologías de la información geográfica
 
-#### <a rel="noreferrer noopener" href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>
+#### <a rel="noreferrer noopener" href="https://blog.osmfoundation.org/about/" target="_blank">OpenStreetMap Foundation</a>
 
 > Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede convertirse en cartógrafo
 
