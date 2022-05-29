@@ -4,7 +4,7 @@ Por Rober J
 
 [![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/@roberer_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/roberer_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
 
-Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Información Geográfica donde cualquiera puede participar:
+Grupos de usuarios y <a rel="noreferrer noopener" href="https://wiki.openstreetmap.org/wiki/ES:Proyectos_de_mapeo" target="_blank">proyectos</a> que impulsan el uso de las Tecnologías de la Información Geográfica o las emplean con fines humanitarios. Cualquiera puede participar, ya sea cartografía colaborativa, traduciendo documentos o desarrollando código.
 
 #### <a rel="noreferrer noopener" href="https://www.ogc.org/" target="_blank">Open Geospatial Consortium (OGC)</a>
 
@@ -50,7 +50,7 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 #### <a rel="noreferrer noopener" href="https://www.missingmaps.org/es/" target="_blank">Missingmaps</a> <br> <a rel="noreferrer noopener" href="https://tasks.hotosm.org/" target="_blank">Humanitarian OpenStreetMap</a> <br> <a rel="noreferrer noopener" href="https://maproulette.org/" target="_blank">MapRoulette</a>
 
-> <a rel="noreferrer noopener" href="https://wiki.openstreetmap.org/wiki/ES:Proyectos_de_mapeo" target="_blank">Iniciativas</a> de cartografía humanitaria a través de OpenStreetMap
+> Iniciativas de cartografía humanitaria a través de OpenStreetMap
 
 #### <a rel="noreferrer noopener" href="https://www.openplanetary.org/" target="_blank">OpenPlanetary</a>
 
