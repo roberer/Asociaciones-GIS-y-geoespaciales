@@ -42,7 +42,7 @@ Grupos de usuarios y <a rel="noreferrer noopener" href="https://wiki.openstreetm
 
 #### <a rel="noreferrer noopener" href="https://blog.osmfoundation.org/about/" target="_blank">OpenStreetMap Foundation</a>
 
-> Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede convertirse en cartógrafo
+> Proyecto de <strong>cartografía colaborativa</strong> a nivel mundial en la que cualquiera puede ponerse a mapear
 
 #### <a rel="noreferrer noopener" href="https://www.giswater.org/comunidad/" target="_blank">GISWATER</a>
 
