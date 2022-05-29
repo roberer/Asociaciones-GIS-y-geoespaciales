@@ -48,7 +48,7 @@ Grupos de usuarios y proyectos que impulsan el uso de las Tecnologías de la Inf
 
 > Comunidad de usuarios para el desarrollo de herramientas geoespaciales libres relacionadas con la gestión hídrica
 
-#### <a rel="noreferrer noopener" href="https://www.missingmaps.org/es/" target="_blank">Missingmaps</a> <br> <a rel="noreferrer noopener" href="https://tasks.hotosm.org/" target="_blank">Humanitarian OpenStreetMap</a>
+#### <a rel="noreferrer noopener" href="https://www.missingmaps.org/es/" target="_blank">Missingmaps</a> <br> <a rel="noreferrer noopener" href="https://tasks.hotosm.org/" target="_blank">Humanitarian OpenStreetMap</a> <br> <a rel="noreferrer noopener" href="https://maproulette.org/" target="_blank">MapRoulette</a>
 
 > <a rel="noreferrer noopener" href="https://wiki.openstreetmap.org/wiki/ES:Proyectos_de_mapeo" target="_blank">Iniciativas</a> de cartografía humanitaria a través de OpenStreetMap
 
